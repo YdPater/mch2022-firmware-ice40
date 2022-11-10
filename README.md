@@ -1,3 +1,7 @@
+Forked repo of original MCH2022 badge repo.
+============================
+I forked this repo to experiment with FPGA's and learn more about them. Use at your own risk ;). 
+
 MCH2022 badge iCE40 gateware
 ============================
 
